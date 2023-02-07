@@ -490,6 +490,7 @@ ul{
     padding:50px;
     position:relative;
     transform: translateX(125%);
+overflow-x: hidden; 
 }
 @media screen and (max-width:978px) {
     .form-container{
